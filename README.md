@@ -18,7 +18,7 @@
 
 Desafio feito no Bootcamp da Digital Innovation One.
 
-Esse projeto é uma API em .NET Core integrada a um cluster MongoDB, que também criaremos em tempo real no service cloud Mongo Atlas. 
+Esse projeto é uma API em .NET Core integrada a um cluster MongoDB, criado no service cloud Mongo Atlas. 
 
 O objetivo desse desavio foi repassar os conceitos básicos de front-end, back-end, bases de dados, NoSQL e MongoDB para fixar o entendimento e sua aplicabilidade.
 
